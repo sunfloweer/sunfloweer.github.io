@@ -1,0 +1,36 @@
+h1 {
+    text-align:center;
+    color: #4c4a55;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: #606060;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.game {
+    text-align: center;
+}
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    letter-spacing: 3px;
+    min-height: 9vh;
+    background-color: rgb(136, 117, 110);
+}
+
+.topnav a {
+    color: #fff3e8;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}

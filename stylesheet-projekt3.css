@@ -1,0 +1,45 @@
+h1 {
+    color: #4c4a55;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: #606060;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    color: #c9c8c8;
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+div {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    align-content: center;
+    letter-spacing: 3px;
+    background-color: rgb(136, 117, 110);
+    min-height: 9vh;
+    color: #c9c8c8;
+}
+
+.topnav a {
+    color: #fff3e8;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+body {
+   text-align: center;
+}
